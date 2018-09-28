@@ -10,7 +10,8 @@
       "rating": 4,
       "volume": 45,
       "issue": 74,
-      "release": "Tue - Thu"
+      "release": "Tue - Thu",
+      "link": "https://www.viz.com/shonenjump"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "rating": 4,
       "volume": 39,
       "issue": 80,
-      "release": "Mon - Fri"
+      "release": "Mon - Fri",
+      "link": "https://www.dccomics.com"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "rating": 5,
       "volume": 50,
       "issue": 82,
-      "release": "Tue - Sat"
+      "release": "Tue - Sat",
+      "link": "https://www.marvelhq.com/comics"
     }
   ]
 }
