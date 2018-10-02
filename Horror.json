@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Hereditary",
+      "image": "https://gallery.mailchimp.com/217bb4cb236a854f10f4f13b9/images/0698ef77-5558-45dd-8232-6558e0ad892a.jpg",
+      "genre": "Horror",
+      "director": "Ari Aster",
+      "description": "After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets.",
+      "rating": 4,
+      "year": 2018,
+      "month": "June",
+      "day": 8
+    },
+    {
+      "id": 2,
+      "name": "The Strangers: Prey at Night",
+      "image": "https://gallery.mailchimp.com/217bb4cb236a854f10f4f13b9/images/78e772f0-1b2b-4989-a28a-0e3523cb6fed.jpg",
+      "genre": "Horror",
+      "director": "Johannes Roberts",
+      "description": "A family of four staying at a secluded mobile home park for the night are stalked and then hunted by three masked psychopaths.",
+      "rating": 4,
+      "year": 2018,
+      "month": "March",
+      "day": 9
+    },
+    {
+      "id": 3,
+      "name": "The Nun",
+      "image": "https://gallery.mailchimp.com/217bb4cb236a854f10f4f13b9/images/a9f5ee5b-48ff-4954-929e-6d266bb9711d.jpg",
+      "genre": "Thriller",
+      "director": "Corin Hardy",
+      "description": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+      "rating": 5,
+      "year": "2018",
+      "month": "September",
+      "day": 7
+    },
+    {
+      "id": 4,
+      "name": "A Quiet Place",
+      "image": "https://gallery.mailchimp.com/217bb4cb236a854f10f4f13b9/images/ecb2dffe-6f2e-436c-9d2a-2fff01459158.jpg",
+      "genre": "Sci-Fi",
+      "director": "John Krasinski",
+      "description": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+      "rating": 5,
+      "year": "2018",
+      "month": "April",
+      "day": 6
+    },
+    {
+      "id": 5,
+      "name": "Halloween",
+      "image": "https://gallery.mailchimp.com/217bb4cb236a854f10f4f13b9/images/9f4ee25a-b2ca-47f6-a2cd-daa0f6c94737.jpg",
+      "genre": "Thriller",
+      "director": "David Gordon Green",
+      "description": "Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+      "rating": 5,
+      "year": "2018",
+      "month": "October",
+      "day": 19
+    }
+  ]
+}
